@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "airflow-dbt-retail",
+  "private_key_id": "53c1193af4f20503a3e100bbf27ac92d992961a3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCyUiXTlTZOdf3R\nT39yDBqy8cUHNLrql0aYnZv6MRTqyM1JLOaF4ukxuqqSKAKJl8isK0gl+d9qkQNc\nFnSFjKw4zlJk1Ivm9L9kkTJbNPZr1tor4O6txj3tYQYlMESIolZOA4TW1+tslmVN\nYun2y/n9RfddQNsttG4K8Hf8ri8n6CsJWiHpTtaqbhkl8gAVMCmGWGtdBvEtmPgf\nH90ZgGUlN3W5926h2ccdMZuNadRN4MSclA4Vsq219uZE/sJr1Sbx1BXOogtJCD/z\nRLVAmdqtlitdOiBxLs6dwPIikycq3HWJaiW5r5WSbkh7uhq8RB2iummZ31PpZxfN\nDFqJM2ihAgMBAAECggEACJ6v9WphFaneex+8qWasY7oMLC0AXBaz8uyrfYyh1jee\ntMrW2eH+I8lCNY55kO0lZi0xb6SEiEI6R1lOiKYkLRrMINOlb6SlG9do97+3qb7Z\nDQXyg7PximgGRAXxSimOwnapFTmax8T9YKBHbwatLvES5A8eiTcPmrfFFRHWdbdO\nmDpaUqd6iGK+dbF0k8JmuQ0I5tsz8yWcN4GHtZPwQM5cYKzTPsNWN4NDvzomSh3e\nc6tJTU0dTpP4JLr0Au6b5qPZOyGCu232CDjqiMz0K9ySPTCvkEGrZM0nHE9Ncta1\n1jPclhFLmpqwa/LRrcVT83fQHrVom2sovhqhq17SAQKBgQDtOvW/EqsfZC1XXboO\nrHLrOb/47wn1JBuZXE5qo9ekq5VNPhCrDKPdXEWIZL6UW+b8upfLIQqMljym5F10\nAXzEzUUqzvv8k17Pi50h8WzyJDtJvdeTYOqfgPwwwQBKmUIIRkeelCNMESGAEp9g\nmL4dkGrgX681KWUiDXStFkJ7PQKBgQDAbf4J3kBjPrcnPeHHnS93jjsywv1ne8m0\nU87stqhH2WwVKv8DSvtUMKQNySmC1TH6LsY0Ch44vqeaePIN8Jkfx3zTzvE4VKLb\nN+a0yWYKu7ggL/TqFAulifoYiSLhkURkdhF+ljQ7nTxgcJmgO4Xcc59oYIdyuT0Z\nM6739DHJNQKBgBf7KtZ666OLu+2mAuXy1tciil5+w5HtaYDSTPcIwwbZdYlOad7w\nsyvwZPMJxB45QBtyPWACYg+eLFluomfUsqkuWvyd2elJeH8gjOzee/XqZbfpof47\nANzI7DV9fSsNXRh7Ckhkj0DkRm+s8kGQjz9r1vIBmjOUkK2lkJLiuiu9AoGAemX8\nTp6V6gq8STOtZ2DuDmfj87ffo3EzrYYZeqv8gicj/protll9X+HImBQ6WUPulCoo\nXHWLH6D1zuXbYU6Gt5YWKkvZV3FOXY5DKv9n7q/UwHSAnlu9xL/s2qpwC3ZxQE1x\nd0lnU/wBqX412ZvC26SX4rZzsV9uI5eiVYl4GXkCgYAgjgVGxsCkRX6OnOQ00OD2\n4j+6UC+Cq77ivfMxh4RXZEgZ8l33U6mTarfahQKfubF2/KVavm0+Qd661UD/bZL3\niYGth7Tr2YqE6dwg5L32MdMEZQ74r2Vq9drz/EiI0X1/U6r47AXmPrUI6XcfTRUX\ng5/Up93ze3VJE6j4pkwa2Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dbt-airflow-terraform@airflow-dbt-retail.iam.gserviceaccount.com",
+  "client_id": "117079571506170951072",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dbt-airflow-terraform%40airflow-dbt-retail.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
